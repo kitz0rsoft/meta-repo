@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "3b4544cca6aaca919c8b298970cf73ea11e8bb50"
+        "next": "4806c839f17b13751c13ccfe22689b7fb8641bde"
     },
     "core-gl-kit": {
         "next": "7a192166a6c1c45961df776cf730425d511fc3f3"
@@ -18,7 +18,7 @@
         "next": "2102dde1f11556208049d1695dbe8e0c0fed3b91"
     },
     "dev-kit": {
-        "next": "6ef2f7ca1dc8088e157924d67dc00a8fe28ffff4"
+        "next": "be4ef985a7c0b409036ed57523dc9f095f9ae0aa"
     },
     "editors-kit": {
         "next": "7361d73e6a9132b5804b4a49969f3597734213b9"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "337e901fb3f3ce6eff518e8cdc4e9314201f9754"
+        "next": "1c45db50af4f3a3cfe9c531ce5b354e03f4c0832"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
