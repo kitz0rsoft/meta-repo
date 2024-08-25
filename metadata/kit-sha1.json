@@ -18,7 +18,7 @@
         "next": "405785198f231b89b34f9b31c37b92db7f06f41d"
     },
     "dev-kit": {
-        "next": "915a8c10d940f8f0d09979ba02603b153fab92d6"
+        "next": "7e91f9137b82318cbdccf3d531ced6e4f24e4480"
     },
     "editors-kit": {
         "next": "7361d73e6a9132b5804b4a49969f3597734213b9"
@@ -42,7 +42,7 @@
         "next/5.27-release": "ff487fae98ca68cf9874be224d7624b2a0d19c8c"
     },
     "lang-kit": {
-        "next": "5ff517bdc7a7ee84d0b8f4e0add0d5259f32415e"
+        "next": "e44cbd6e3eb3fc2225681b93ba5306e4c1e5c91a"
     },
     "lisp-scheme-kit": {
         "next": "fd550555cc2c49fa142a22f7b791692f1f00d1c8"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "7aefd3caef484aededa4d5e3f3ca1d38257fd27f"
+        "next": "ba9f9ab74b928a281e84ea3a41cbd61b7698845e"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
