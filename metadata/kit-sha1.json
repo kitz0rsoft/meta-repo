@@ -9,19 +9,19 @@
         "next": "832aec9659cb645712a23dfa23e2f945505479b2"
     },
     "core-kit": {
-        "next": "85dba1049654ae9635821c0c4def39c3ab075c1f"
+        "next": "28550ab9b4ef666330e907df0a84b954afdf5923"
     },
     "core-server-kit": {
-        "next": "f65a892a1df756c1da0f3ee291953159ec9e30eb"
+        "next": "af3152b405f44372a8f213061409feb6bf816c6c"
     },
     "desktop-kit": {
         "next": "9258af751c3bc640a0bebde050c267c81aec0bc8"
     },
     "dev-kit": {
-        "next": "624a72da9c065150600efa12c0202bdb58799454"
+        "next": "8d78054c66e79f07a6535471ea75e326d85d0fb7"
     },
     "editors-kit": {
-        "next": "7361d73e6a9132b5804b4a49969f3597734213b9"
+        "next": "869255aa6408b66b10b43102585189097a366ddc"
     },
     "games-kit": {
         "next": "81685834621e89a0e25b2e4e5ec77c54ac5ed6a9"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "f0415bd11956587651f9782c9d1007a7a25931b9"
     },
     "media-kit": {
-        "next": "8c887a5b8bebc28c46ef3f87dba11ccf36b6ab97"
+        "next": "5d391ab3f169b2ecfcfd4faea9e6485ef9e0cb5d"
     },
     "ml-lang-kit": {
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "1f29a855ed84a85f796242159516b067653d051b"
+        "next": "6c6f13c9180e78df201ab3f7da9cd030ae9089d5"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
@@ -69,7 +69,7 @@
         "next": "0e393f8a5d9cb878f8bbfccbb640933785774b66"
     },
     "python-modules-kit": {
-        "next": "3ac4b258ad7cb5b30beabf9d6cbb0c5a67567403"
+        "next": "5e45ba495fc3c00b39017a661ce0b2e95eb1e972"
     },
     "qt-kit": {
         "next-5.15.2-release": "08a89ef7b797498a7370dde0435617103e7459ed"
@@ -81,7 +81,7 @@
         "next": "e7ac4692da7ea68954d065550e6c331080f886e6"
     },
     "security-kit": {
-        "next": "baeb32b993492471113bafed62b1f7260f7d3df8"
+        "next": "32e67ed7a7d09ff538483a3785f3e06aa368e6b6"
     },
     "text-kit": {
         "next": "aa01ad5ec85d6d363a0d882afd1422f287abb10f"
