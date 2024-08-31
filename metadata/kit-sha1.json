@@ -18,13 +18,13 @@
         "next": "6beffda06b91ca11b721ea37ea93c59ac2451d18"
     },
     "dev-kit": {
-        "next": "4aac4bcfd3c75b3ea1a8267d4d5daa191f8b3620"
+        "next": "77574873b3b00b2e419a62f035fe41d28b858daa"
     },
     "editors-kit": {
         "next": "c4519579f314056765aea53ac50004704adcc23f"
     },
     "games-kit": {
-        "next": "d4727e389122dc902038a47e987e882135bc6ba6"
+        "next": "1a1407c4826d33ff940daba407c3a91dbea3fead"
     },
     "gnome-kit": {
         "next-3.36-prime": "f9d170ec97e5aec99c99175e3e124c941a69bade"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "93e1480ad90ef05956e0733550615f5864cf5d0c"
+        "next": "b2d5ca4ad8ac1d7eca3aacd3d01f1bad7c8eacc7"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
