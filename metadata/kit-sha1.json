@@ -12,13 +12,13 @@
         "next": "5411542a096e93812f899ffd782aa1e35398e277"
     },
     "core-server-kit": {
-        "next": "b59402cf5fa7ccdb06e29c0ba0d3fae3a29c7413"
+        "next": "0948fc8def7730b11de52b3229c351296ff7ff87"
     },
     "desktop-kit": {
         "next": "6beffda06b91ca11b721ea37ea93c59ac2451d18"
     },
     "dev-kit": {
-        "next": "1df57b34a8211f403bbff6ce4a544f4ef7781735"
+        "next": "a9c90c386c9882b3beda45e83e5ba10ff42325ea"
     },
     "editors-kit": {
         "next": "c4519579f314056765aea53ac50004704adcc23f"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "f1cc6568d8b92d942b3c6ecc885b88417bc97ee4"
+        "next": "4f823bcaa73f85fb7dd5b235093d028943d02b06"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
