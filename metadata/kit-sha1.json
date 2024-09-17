@@ -6,7 +6,7 @@
         "next": "85e9ab78de82af377d62d6b47815a8a351f34838"
     },
     "core-hw-kit": {
-        "next": "7b84c24a182d9a74427448d30aadb936b9df1b29"
+        "next": "39899174b5af98bb95db1f34c85f50f64e395a86"
     },
     "core-kit": {
         "next": "281852b21487e8efc1fbb954a0e5c90991f8c56e"
@@ -18,7 +18,7 @@
         "next": "598d9c423ac150123432c9f64db36e85064ef3f4"
     },
     "dev-kit": {
-        "next": "fa76063210f6c5668e0e6a4273fa3e6143ffa095"
+        "next": "d80f406dd5ef8517fb65ccc98a202f777d7bb446"
     },
     "editors-kit": {
         "next": "2dff07086f26f27a6b0e7604f5ea243756bc55a1"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "48f61a037f97129c4d3dd41f4f7161b3c071268f"
+        "next": "58d3848717b98c6d8a37c25c125cafaf21f3d2a7"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
