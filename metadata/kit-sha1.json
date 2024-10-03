@@ -12,16 +12,16 @@
         "next": "d46c7528d723bd79fd5d7a02cc0d2ebb9b7764a1"
     },
     "core-server-kit": {
-        "next": "d43a67636de5b3a00e1ca22a0f207120bd5674bf"
+        "next": "59d758640cc0801c7413037e346a389b69dcac5e"
     },
     "desktop-kit": {
         "next": "bccee81a2126055f16b9fe1e0ec12c0224f021ae"
     },
     "dev-kit": {
-        "next": "8c0af4a087dc5cd0833359f719823cdd7c584ad7"
+        "next": "9648e10f41fada012cd3854a7336cabf13a9ece3"
     },
     "editors-kit": {
-        "next": "02898eb3e48910e909f0cf72a5c9e1a5fcdfd469"
+        "next": "ef55ff5cb48f20e8627cf9e7acf30402f6a01cc6"
     },
     "games-kit": {
         "next": "12ed5427be27c156c9b2dcad2a41cd8323715b94"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "ca27c6bc833f3806bf215e265bce49218141a816"
+        "next": "6be26b0b0de2c21afec52c9fe1e19086907a8c3c"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
