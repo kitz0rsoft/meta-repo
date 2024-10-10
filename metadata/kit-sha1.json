@@ -6,22 +6,22 @@
         "next": "464b14d0a3ca5bf1a674a21bbbf3da7556b4cc68"
     },
     "core-hw-kit": {
-        "next": "4c4526da70ebe213abddfa4219ce6cabc7965c3d"
+        "next": "b3783d6076c2645c31533574dffb9a4ac85f6c0b"
     },
     "core-kit": {
-        "next": "6478f380689ec2614ffbd1d74a9e4d2cfe329cc7"
+        "next": "978a8aa9db8ddbec78343adad1758dccd0a9535c"
     },
     "core-server-kit": {
-        "next": "fd5c5cfa27b676a0e9e996a23a4b7ab349558dcc"
+        "next": "f739bbc27094115d47db926c9c144ce28ceefa54"
     },
     "desktop-kit": {
         "next": "e9bb28fbda2d4457388b2447ef38d40df5a7b23b"
     },
     "dev-kit": {
-        "next": "e8cde01d89c208f3a75b0c66145caeff1d774f7a"
+        "next": "304fa64fb802d6d14ccc393ed5ecee4f976ac727"
     },
     "editors-kit": {
-        "next": "f929135ed28a1d71c72108eeb2f7813f445b4b6c"
+        "next": "a8d5f48c69be0d7ede0b8f1f1f6be8eacfe8b7e3"
     },
     "games-kit": {
         "next": "12ed5427be27c156c9b2dcad2a41cd8323715b94"
@@ -42,7 +42,7 @@
         "next/5.27-release": "ff487fae98ca68cf9874be224d7624b2a0d19c8c"
     },
     "lang-kit": {
-        "next": "3a5e11f79eef00079f8708460ab86509b4459536"
+        "next": "0af46a9dece5584ef3731c9707b1428c4c9c38d6"
     },
     "lisp-scheme-kit": {
         "next": "fd550555cc2c49fa142a22f7b791692f1f00d1c8"
@@ -60,7 +60,7 @@
         "next": "d2e5abe4451f6e57043040689dfdbb07e44a3b73"
     },
     "net-kit": {
-        "next": "8c1e30878716c338bf3a9e1403283b1dfc68b771"
+        "next": "db6773bb7865f2bc748488520bd16c8f7b267343"
     },
     "perl-kit": {
         "next": "ce982b76d26770c165f5d222d5d3eab24e3d44c4"
@@ -69,7 +69,7 @@
         "next": "6fc425e98fbb679dda3ab17cfd9577cecfefce04"
     },
     "python-modules-kit": {
-        "next": "a134ee81d28603d222bc72c4c3cea0d4b1942562"
+        "next": "d554c9ca4c2a3d1e85436c0a085bf765eb206be4"
     },
     "qt-kit": {
         "next-5.15.2-release": "9a1c1ddf2ba3ac920236c0497ae3080c9f60c480"
@@ -78,7 +78,7 @@
         "next": "ce1c364641ce7e9fa84d26d3be190d00d545a484"
     },
     "science-kit": {
-        "next": "a29ccaa194318887bb8d94a71c0bdf435f701b8e"
+        "next": "ee1b95020a19c3f158e098c058b5a7d15f3ad613"
     },
     "security-kit": {
         "next": "3cbdc2d3f912cb702a9e3473ab9af6f5dc41106b"
