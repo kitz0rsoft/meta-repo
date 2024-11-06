@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "b07c410dc62d86dc0958c5e77801b5c65c2aacfa"
+        "mark-testing": "75492e9acfa5701b056260d1d5d92d995ad3bb08"
     },
     "core-gl-kit": {
         "mark-testing": "4c0dc7c2fcaff53785393f63d555ea2264d0328b"
@@ -15,10 +15,10 @@
         "mark-testing": "48b5944f5a45125621b53928929ee9d939d3f2d3"
     },
     "desktop-kit": {
-        "mark-testing": "790812da768dc59a70ba1f529e8d2ebff6d18ce3"
+        "mark-testing": "cf528ce69ce9a108e16a6384556da892c9793184"
     },
     "dev-kit": {
-        "mark-testing": "7634550c014ffd3d38e7e778807a92207c5021ba"
+        "mark-testing": "ccc5fa723e258b5f4dd57764dbd22cea523205fd"
     },
     "editors-kit": {
         "mark-testing": "645fb19df8d9516468bb70f6999bc80e1856e607"
@@ -60,7 +60,7 @@
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "b372a49d1225438e673c0d8748c92dccfa8fe4e3"
+        "mark-testing": "17d1c1208450a806868f4c8772db37bee1a89a50"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
@@ -69,13 +69,13 @@
         "mark-testing": "342db0a59a1f502af7c3730e0d9cb0f0f4b2c49d"
     },
     "python-modules-kit": {
-        "mark-testing": "d80c9986dd02d40c33379c294dda6a0aba0f11fb"
+        "mark-testing": "7ea16fd78023be181f68a9a46b5a7e707294d2af"
     },
     "qt-kit": {
         "mark-testing": "2290d75d6d196ab86e66b26c2ae31a5c2acf2a8d"
     },
     "ruby-kit": {
-        "mark-testing": "877ea06604eab74460ae853d336c2ab1f66de811"
+        "mark-testing": "eaade2e16a1cd509106736af6dd6373eda5bf1b6"
     },
     "science-kit": {
         "mark-testing": "056997ac2c6ebdf45c630015d81c2618235f5b7a"
@@ -84,7 +84,7 @@
         "mark-testing": "8550a9dba3f1840b3ed69eaf3cbc07ca0b6491b5"
     },
     "text-kit": {
-        "mark-testing": "3df00737373a6abbf75105d24e8a45ff358576fd"
+        "mark-testing": "bc38e630bca2074b8d56d50b4e2da9a056f227fd"
     },
     "xfce-kit": {
         "mark-testing": "147447bdc935f499a11d714649c48686666a9a66"
