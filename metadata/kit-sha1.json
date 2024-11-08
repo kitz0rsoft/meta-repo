@@ -9,19 +9,19 @@
         "mark-testing": "c768c56ca7f538edda56afa8f2dda5299687658a"
     },
     "core-kit": {
-        "mark-testing": "8353e4c38243d888466505227206fbdbf4dfcd8f"
+        "mark-testing": "a8e1b942b38510f8b807b47c8c65fa1971a1546a"
     },
     "core-server-kit": {
-        "mark-testing": "d762f8812d1a9faccec8ae5dfff5142a147ca137"
+        "mark-testing": "68f987d65785a092a8a81a763109e3ad397299e2"
     },
     "desktop-kit": {
         "mark-testing": "a8c4f74ec9aad124e1882facfd19dd125b2ee0f9"
     },
     "dev-kit": {
-        "mark-testing": "2c5897326ac3e10657f0e9b7cd9516a7097abd3c"
+        "mark-testing": "e2b105c79dc949ce7b21cb0be1f41f46ab866a69"
     },
     "editors-kit": {
-        "mark-testing": "6fa98cb570a00114f546cfe4b4db3572d1d7c864"
+        "mark-testing": "85e0a45de9be485cf322e04b54d089cf99a34ad5"
     },
     "games-kit": {
         "mark-testing": "04dcce917f12a6d745aa85aed1a99502c5e9055d"
@@ -60,7 +60,7 @@
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "46494e8f404abc7c1ecb2b9248ee6b1e748abe89"
+        "mark-testing": "c8a7d2f4bb04bc652fff5cc2b22dfeeb8259e03e"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
