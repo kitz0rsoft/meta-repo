@@ -12,16 +12,16 @@
         "mark-testing": "de745424c1ce949060bd6be86117310fc0ffdb0d"
     },
     "core-server-kit": {
-        "mark-testing": "92bcb19f19bb73814567a394af4b16335c70cf09"
+        "mark-testing": "6aebf8dbf54de75a1c3a1829e0e1b7f5d909b8e3"
     },
     "desktop-kit": {
         "mark-testing": "8397363580d9dd5944383008f314f5957ed8aeca"
     },
     "dev-kit": {
-        "mark-testing": "7f498d658aeb54f97ef6eaf7c50106547354ffc6"
+        "mark-testing": "d4ad8af467ed95f34b695edec05d4681301bfdf2"
     },
     "editors-kit": {
-        "mark-testing": "36a6d33656a86f17f1cb979ae44a69aa5755bc6a"
+        "mark-testing": "6c009374252a5b6f918ff9fcfcfcfd3ed14ee4ab"
     },
     "games-kit": {
         "mark-testing": "2154c88edd6e4efa8a0ea440a37d04674a5fce82"
@@ -60,7 +60,7 @@
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "5457d6c7b3ada71f720c21b0d499d30c3521d08c"
+        "mark-testing": "29341274aad7eea7bffedb5f2aaa0fa410581ead"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
