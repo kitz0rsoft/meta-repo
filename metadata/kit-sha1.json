@@ -9,19 +9,19 @@
         "mark-testing": "f5b8217e16f9b47257f7a4ddd41c17d24ba47f63"
     },
     "core-kit": {
-        "mark-testing": "65f9efc3b25682f3d5fc333920b3e6704ff103f1"
+        "mark-testing": "9ef460593bc06e4e80bc75fa20e5f5a8bdfbdf23"
     },
     "core-server-kit": {
-        "mark-testing": "57e241ac2cbd0e9e76900fb2cc32d12eecf20d28"
+        "mark-testing": "c7bd899fa3e64fa59b5d1a0909e36c0916500d85"
     },
     "desktop-kit": {
-        "mark-testing": "8397363580d9dd5944383008f314f5957ed8aeca"
+        "mark-testing": "326ef64d8f0a7dbac9a36394ad824c0389afafe9"
     },
     "dev-kit": {
-        "mark-testing": "73906d302b4d8ee1f766c38dd4d0da570388afbe"
+        "mark-testing": "6991bb034a3a2ec31c6d486890eefebf750b60cb"
     },
     "editors-kit": {
-        "mark-testing": "6c009374252a5b6f918ff9fcfcfcfd3ed14ee4ab"
+        "mark-testing": "eeefbd18ff080325dda832156ea86d7ff57a4904"
     },
     "games-kit": {
         "mark-testing": "500ca31dfb09e85e225bbe6f2b4d87034a5f85fe"
@@ -54,13 +54,13 @@
         "mark-testing": "f9e435694c67bad462904fa1fb1f841bc83052ec"
     },
     "media-kit": {
-        "mark-testing": "0e5154bf3b2b7be050241bc926a5b25c34839328"
+        "mark-testing": "3f3fce0d7c4265e0a208fb1d3de9908a1d85f118"
     },
     "ml-lang-kit": {
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "6ccaaf35f3790462e4e0a95a1fc0cbde44dc174a"
+        "mark-testing": "8986ba9e3501bef44bef0c6d9da1c7c0c815a46a"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
@@ -69,7 +69,7 @@
         "mark-testing": "2778dcd32fce4caa8aaba4ea4a3753f54aed276f"
     },
     "python-modules-kit": {
-        "mark-testing": "d8bf964e0164c99d765b237a69110bd55b724e91"
+        "mark-testing": "855a381ef18087321d1bb352d576cc9592b40911"
     },
     "qt-kit": {
         "mark-testing": "4e26c746f37eff63d2a3f924076167e599a62290"
@@ -81,10 +81,10 @@
         "mark-testing": "3e04e321c90e38b0c02c7858ee1b52fbf6e505e3"
     },
     "security-kit": {
-        "mark-testing": "9706a80ca67d62576f953b920d906994407bcede"
+        "mark-testing": "d9c7bddc861fdf8f8a0d69f1e72aece59f4120e1"
     },
     "text-kit": {
-        "mark-testing": "82863d9d28c0b8e5e58526e0dea2fa585d875801"
+        "mark-testing": "fea553e2e044fe3440d6c8a9e57955994cdf32cb"
     },
     "xfce-kit": {
         "mark-testing": "d8ba7115a2f55686f3b25be54785741621001c21"
