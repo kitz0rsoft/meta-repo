@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "bf44adeb088309544c330507e5aa70448ccdd597"
+        "mark-testing": "2b26f72c337f6dab444edba14bf16e1dc232b562"
     },
     "core-gl-kit": {
         "mark-testing": "669ef982d36d5f3ffbf9548fe6939f76ad6971cd"
@@ -12,16 +12,16 @@
         "mark-testing": "d22b94776ce1640aba4f10e71bdc741bcec30084"
     },
     "core-server-kit": {
-        "mark-testing": "5fa56a25a65dae5381d857ffa33208bce5683248"
+        "mark-testing": "e76927c676427b52c28612061e3757234df34424"
     },
     "desktop-kit": {
         "mark-testing": "4d3ff0a9f1cfb7c3dde3230abb3e763c73dbd2b7"
     },
     "dev-kit": {
-        "mark-testing": "ac09d8c89a6a5409a1762373ef58c37ad8aba35b"
+        "mark-testing": "d98a4a9b74c693cf8b0bdb4f0c7a0020c8f019ce"
     },
     "editors-kit": {
-        "mark-testing": "cc3c981449297bb27fb9baa46fad65fcd4147086"
+        "mark-testing": "982ff7b6265d0d06258ed481c047c4f91e6128ff"
     },
     "games-kit": {
         "mark-testing": "500ca31dfb09e85e225bbe6f2b4d87034a5f85fe"
@@ -60,7 +60,7 @@
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "853bbd22404f16cc03bcbb82447ad8c00491628d"
+        "mark-testing": "b61264fa05f5243471bb6cb89998445a8bb679ed"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
