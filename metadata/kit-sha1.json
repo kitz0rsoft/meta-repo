@@ -18,7 +18,7 @@
         "mark-testing": "c54bffeec16d4afb6b39a6c0225e1bf6ec3f4350"
     },
     "dev-kit": {
-        "mark-testing": "b9f821fe96606aaca1f8a6d100b6c51a13dec67c"
+        "mark-testing": "b6aeea044b67bbfd09d226452c768b3da931621a"
     },
     "editors-kit": {
         "mark-testing": "3d81f9e0b0917bc203da7f774fcf554e0e549bda"
@@ -42,7 +42,7 @@
         "mark-testing": "15b61e446418a0ef075998522a99fc4891a3b121"
     },
     "lang-kit": {
-        "mark-testing": "00cfc402729d96373e5f9ece4aca5aec3b139e69"
+        "mark-testing": "6eef693ecd2b9279b221e2bf6b1baefcf8692706"
     },
     "lisp-scheme-kit": {
         "mark-testing": "883df49e11811e5ca22a4774f4f8f097bb212c31"
@@ -60,7 +60,7 @@
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "6115b990688c027b3fb352269e8cb55259814e2b"
+        "mark-testing": "7eb7e75ce662e933fbaead7279a49fe642d8786c"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
