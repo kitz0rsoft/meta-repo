@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "cd02aabe8f1ac002d06b3d82e4e45ea9c807de0f"
+        "mark-testing": "1ffa1afcfbe1fcaac48a53faae4c81e017d05942"
     },
     "core-gl-kit": {
         "mark-testing": "5c55b01636287547a863ff95662d38ed0ae79bf5"
@@ -12,16 +12,16 @@
         "mark-testing": "4570caad935dfdf807950626d0cfb7659b8127ec"
     },
     "core-server-kit": {
-        "mark-testing": "df1ebd6d0f8d933af48a4da35ea0f7ad6c4a2ea3"
+        "mark-testing": "33ee6627375746c633e94bd9663d1ba4dd0526f1"
     },
     "desktop-kit": {
         "mark-testing": "c54bffeec16d4afb6b39a6c0225e1bf6ec3f4350"
     },
     "dev-kit": {
-        "mark-testing": "e6a4a752aa38def510bbd98aba2cb4512b8a5b60"
+        "mark-testing": "771fcc57423c5c039488d5845b1759fc312933d5"
     },
     "editors-kit": {
-        "mark-testing": "cf9754f8dd23257734e6719098ecd4bac45fe7a4"
+        "mark-testing": "7d71a4e3b56f50c5b14039e453f92e68449af129"
     },
     "games-kit": {
         "mark-testing": "738735c00d4f1fa151c323ea281b5998103f7ea4"
@@ -60,7 +60,7 @@
         "mark-testing": "b88026520fba9375eb861a1e1f4f0baec005cc45"
     },
     "net-kit": {
-        "mark-testing": "3f938a4b783880aaa4e4cea4f50dc9f11bfd6e2c"
+        "mark-testing": "9affdda614a8020108a4045070e250150fcbdc23"
     },
     "perl-kit": {
         "mark-testing": "117af62c7225a5214b5517b55a301f33e5e28eaf"
@@ -69,7 +69,7 @@
         "mark-testing": "2778dcd32fce4caa8aaba4ea4a3753f54aed276f"
     },
     "python-modules-kit": {
-        "mark-testing": "a529d20041fc2993f27b7a85d60d8658d395b000"
+        "mark-testing": "febe1bc09133bfb982d5bf10777bf69419dfdc00"
     },
     "qt-kit": {
         "mark-testing": "e219a6ef3df93263c937fb52e034aef8a66d5944"
