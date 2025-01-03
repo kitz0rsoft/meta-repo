@@ -18,13 +18,13 @@
         "mark-testing": "4fa6a1efda6a3ae1b45aa46475053159cf67ccc7"
     },
     "dev-kit": {
-        "mark-testing": "dbdf28d71c47de80c272b817f6202cb2455f523f"
+        "mark-testing": "71259b55ded3ec5fad0fca09ecb6e76708271bf3"
     },
     "editors-kit": {
         "mark-testing": "c9cb88f801a921ffd3be24886b8eb299b04300cb"
     },
     "games-kit": {
-        "mark-testing": "9e23d9a1e3279eb035e57cbc862dad7623cb6d4e"
+        "mark-testing": "bb0a6863e75937a15fec96ac3182d70c9685d3db"
     },
     "gnome-kit": {
         "mark-testing": "6ac039568f521a05203cbc1c778c543ffae9a122"
@@ -60,7 +60,7 @@
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "24c3f63bbfeea6106cbc1fcbbef713ee734499de"
+        "mark-testing": "c53486ec878c8d7472769451f464576805f69a35"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
@@ -69,7 +69,7 @@
         "mark-testing": "fb97f85857de702423b136489da65c8ecdf4eb78"
     },
     "python-modules-kit": {
-        "mark-testing": "f1f241bfdfa32392ef57be505ef6a71373ea4263"
+        "mark-testing": "7bd6a60a26bc57fc35221f3d618e117c074d64af"
     },
     "qt-kit": {
         "mark-testing": "65edd6e62fce6f859b1bb9e947fdcb35d24d955c"
