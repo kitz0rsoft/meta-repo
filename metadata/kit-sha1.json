@@ -1,24 +1,24 @@
 {
     "browser-kit": {
-        "mark-testing": "8585ec90a6feff6d6771b816deda28b7ce6b0c84"
+        "mark-testing": "71d73b6ec75580c15333ca03b1df058fd050f6cf"
     },
     "core-gl-kit": {
         "mark-testing": "dfe7cfc50dbaa7948503c22943ca37adf0381d88"
     },
     "core-hw-kit": {
-        "mark-testing": "0701569652e6e4b82da28ee6535188b88fc40110"
+        "mark-testing": "8e12009ada04d1c4c3445cc050e9bd9609eb5dc9"
     },
     "core-kit": {
         "mark-testing": "51d59889b25835567080885223a711443757f103"
     },
     "core-server-kit": {
-        "mark-testing": "d04a77ffa9a711b34aadb6070f58ed9b48895c69"
+        "mark-testing": "068cc0684746d445b8698f20481ccd7f293a5d15"
     },
     "desktop-kit": {
         "mark-testing": "43b4d1225226797986a88bbf9aff043896a4158a"
     },
     "dev-kit": {
-        "mark-testing": "28be6058d2e60b6d6d0bf5199401d0857176271f"
+        "mark-testing": "fb36c8cf1af885b97d595cafe17b951554319b86"
     },
     "editors-kit": {
         "mark-testing": "a935776f1938c9f451f180a7e7fff5e7eb41ee5b"
@@ -33,7 +33,7 @@
         "mark-testing": "dde9577a25a940502608b1aa3a5f20039fda9e98"
     },
     "i18n-kit": {
-        "mark-testing": "5ac6fbbcbd5486844c07305b6d3aff55703fa84c"
+        "mark-testing": "bc57b8e6f1ad44034e4197a0e359db4d35a99619"
     },
     "java-kit": {
         "mark-testing": "c8d0a01c3e12a69b679d18d7808f4e725d57a422"
@@ -60,7 +60,7 @@
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "a82c34b38a27b9226b7db8de88a060e0b315f0d8"
+        "mark-testing": "33790ad8b1d8f1dcd40c3af08450abc624c82f77"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
@@ -69,7 +69,7 @@
         "mark-testing": "fb97f85857de702423b136489da65c8ecdf4eb78"
     },
     "python-modules-kit": {
-        "mark-testing": "008261854e293229ea9bef73f2f3816f0ada090a"
+        "mark-testing": "47232cdbebdc4f50c99398cf9788d5ff77caaa09"
     },
     "qt-kit": {
         "mark-testing": "65edd6e62fce6f859b1bb9e947fdcb35d24d955c"
