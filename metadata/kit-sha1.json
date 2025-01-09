@@ -6,10 +6,10 @@
         "mark-testing": "dfe7cfc50dbaa7948503c22943ca37adf0381d88"
     },
     "core-hw-kit": {
-        "mark-testing": "8e12009ada04d1c4c3445cc050e9bd9609eb5dc9"
+        "mark-testing": "987513285c9da9c0ad06f638582783f79b8634ed"
     },
     "core-kit": {
-        "mark-testing": "ceacacbecfaa96a3dec3cd18595fa116d2f4c33d"
+        "mark-testing": "9704093e69e948e5ddf23c4dd5ad4a5e51152adc"
     },
     "core-server-kit": {
         "mark-testing": "4531743466df5ef2fa0ff60aee7cd38751d64981"
@@ -18,7 +18,7 @@
         "mark-testing": "43b4d1225226797986a88bbf9aff043896a4158a"
     },
     "dev-kit": {
-        "mark-testing": "c6a634c27ea821b35729d9ce787a4a46a9e25a57"
+        "mark-testing": "265e7572a126ef3805d8f37bb4792d3776626f00"
     },
     "editors-kit": {
         "mark-testing": "a935776f1938c9f451f180a7e7fff5e7eb41ee5b"
@@ -60,7 +60,7 @@
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "4ac6bdf83a0b7a2c23deca9bd4d41acd7de9a70b"
+        "mark-testing": "30fdcc71cea6ac2d24290827f1d362763c51209d"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
