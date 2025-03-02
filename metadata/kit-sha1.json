@@ -9,7 +9,7 @@
         "mark-testing": "41f00dec4b461809d85e650de9cdce1d6ec7c896"
     },
     "core-kit": {
-        "mark-testing": "3a32cdfd0da28cc63c967f259a1282f1745189d5"
+        "mark-testing": "1e468b69ccace6b07a0c0d7f8c9e0e84a0ee2b20"
     },
     "core-server-kit": {
         "mark-testing": "5e8ff6ca5bd8e103f5f0c83cc1b9b7e9e5d6cd69"
@@ -18,10 +18,10 @@
         "mark-testing": "9b30bc0bad4308470e24313df9805e97145c3b6d"
     },
     "dev-kit": {
-        "mark-testing": "6b82d83255f1236e0f352048e823126fbbf799d5"
+        "mark-testing": "e5f049d93c3633e66ce87ec1d750809c0e9b4236"
     },
     "editors-kit": {
-        "mark-testing": "44689f7730c336b3865b138ad79e7ec5e238dc76"
+        "mark-testing": "12b2042b719f2e40b50e7a763db215a159d09cff"
     },
     "games-kit": {
         "mark-testing": "d28123713688814eb5fc87b3f97730eecef1e759"
@@ -60,7 +60,7 @@
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "47b9a96f3edb9b5568b703794ddacdebf2ea8260"
+        "mark-testing": "b8deeaa02e6f159e437426b05503d0f1706ac69a"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
