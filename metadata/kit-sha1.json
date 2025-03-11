@@ -18,13 +18,13 @@
         "mark-testing": "17970346ed5a298752eb33517e18772e7a4fbbfa"
     },
     "dev-kit": {
-        "mark-testing": "3ec64ac3888e4a2336769c0a6cfdc071753faa95"
+        "mark-testing": "c4cf16e376dcc24d0596beb396aa9e76a91a45e2"
     },
     "editors-kit": {
         "mark-testing": "3cb54c59d5f8f57de3ba96d6c42e4faf9bc60ea2"
     },
     "games-kit": {
-        "mark-testing": "3a3c58a41e0547d06ecddafb32c2cbc4accd4d96"
+        "mark-testing": "72c93ec3a5c32e78195ad6329ba85b096171f968"
     },
     "gnome-kit": {
         "mark-testing": "5ae39a08961e5dbf269d82c4c0effd98e69b694e"
@@ -60,7 +60,7 @@
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "a1cd9fc32707ab9c262c769963ff75572d157415"
+        "mark-testing": "178424f0e10e9124d3ee11da3dcd080e9e2997f7"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
