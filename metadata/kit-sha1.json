@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "f391f8ef4e55f1b23081f2dfc4cabcc862aaaeca"
+        "mark-testing": "1dfb5d5f5d0346a78bcfe1a417012202f5589040"
     },
     "core-gl-kit": {
         "mark-testing": "3663eaf80df006545b518d41ae9153685f0139ee"
@@ -60,7 +60,7 @@
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "437e8d9b4bff5a26154e910f60e6c1fb42c20f9d"
+        "mark-testing": "4cd00f44f82fd70752ca851033d272e87f849d3c"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
