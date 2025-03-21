@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "ae7f39e4c1f8129b9ecfa246b0bb61770dff0a47"
+        "mark-testing": "e63d54d398b19716f907ebfaf68eec5bdb01d943"
     },
     "core-gl-kit": {
         "mark-testing": "3663eaf80df006545b518d41ae9153685f0139ee"
@@ -9,22 +9,22 @@
         "mark-testing": "cd1fe5cf5814e067f05495f317b6141ad5b8444d"
     },
     "core-kit": {
-        "mark-testing": "55b7ba1f1fed5b8194f85e6a49d41a9e371fb285"
+        "mark-testing": "9e9e4b6110cf019b48db54b3a4ab593aef481f8e"
     },
     "core-server-kit": {
-        "mark-testing": "97b74506ee020612063c47e4ff3433cf18a25f9c"
+        "mark-testing": "1aaa32ce448bbbed41a18b08e6c862db55a14170"
     },
     "desktop-kit": {
         "mark-testing": "d9645a46469c36ff59059681c6307e1d127cae86"
     },
     "dev-kit": {
-        "mark-testing": "2b1f8cbedc77ca7efb8e1e6da46fd9559ad80d78"
+        "mark-testing": "2b598e7455f5993918ce9d1fca9c542118235129"
     },
     "editors-kit": {
         "mark-testing": "d06973c0d50977488f82e892a7080d4462c3c9ca"
     },
     "games-kit": {
-        "mark-testing": "d77c502ac804ed74190d9f1c05221e01ab68a9fc"
+        "mark-testing": "d54eff5c8a9f0ca2545bb95309f072280723fdf2"
     },
     "gnome-kit": {
         "mark-testing": "7945a207412c52c61a0d741d45e378032200a4a4"
@@ -42,7 +42,7 @@
         "mark-testing": "f8f28f9e4758a95ef476a165ee9155fc0210bd7e"
     },
     "lang-kit": {
-        "mark-testing": "4a60078c3b632cec0c58013c0880beb1844a508c"
+        "mark-testing": "8d107bba9739de98115168ccdd185ae4b727a5a5"
     },
     "lisp-scheme-kit": {
         "mark-testing": "91af278a80d5748d7fc50773592d6230cfe88be4"
@@ -54,13 +54,13 @@
         "mark-testing": "78b71678bd749fadb1bd272b651c8cb1f9096ab9"
     },
     "media-kit": {
-        "mark-testing": "9e2be36d81decfe44bb13a82186e37337763b6c7"
+        "mark-testing": "cf791320049b3feddf73d5f200aad0e46ef895cb"
     },
     "ml-lang-kit": {
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "8e1dc5fa8f236ce26494a3ed1ce7c5b250cf3b6d"
+        "mark-testing": "ed9be161e7a1700daa72fd5c1021d1e4f4b63718"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
