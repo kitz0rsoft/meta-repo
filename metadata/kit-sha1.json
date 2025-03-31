@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "e8590dc776751fc469ca095f2cbedb17b67b1f46"
+        "mark-testing": "fa2bf5b9cc2fb679412df4d1da61be4ca7355a31"
     },
     "core-gl-kit": {
         "mark-testing": "2cd2df211d8c1256a421af29bd70d65c35501d65"
@@ -12,13 +12,13 @@
         "mark-testing": "4488ecfc6e9bb2eb33d8e18f762fcdc374610eb3"
     },
     "core-server-kit": {
-        "mark-testing": "34fd2070a6a4198bd3410cb2a9aa48232ce2ddf9"
+        "mark-testing": "6a0a522cd2faf3f1b093cfdb552f9a2a7699d72d"
     },
     "desktop-kit": {
         "mark-testing": "5acc8a61976e9036f4434d926c01d80d2f68b198"
     },
     "dev-kit": {
-        "mark-testing": "eab93bbdb09d332eee8221a97710000a82dfb5d6"
+        "mark-testing": "5780f9223b7fcc9dcef9d5747f02651a45435b8d"
     },
     "editors-kit": {
         "mark-testing": "499bc0f58f5278294fab08b2598e97ead9b3e5f5"
@@ -54,13 +54,13 @@
         "mark-testing": "78b71678bd749fadb1bd272b651c8cb1f9096ab9"
     },
     "media-kit": {
-        "mark-testing": "8fe9e4b8a1744b3f1276ef822a08383f97efbcae"
+        "mark-testing": "7008caed4110c16a78f3868d851f158d5923cee9"
     },
     "ml-lang-kit": {
         "mark-testing": "3d3bcc656e665ae04104a86377fbbbe80d2ace7d"
     },
     "net-kit": {
-        "mark-testing": "dc9c768d895e8456b7d62e15bc95599af68379cb"
+        "mark-testing": "45b05a4ff1dbe204023c033eded617a11d4c95a3"
     },
     "perl-kit": {
         "mark-testing": "6c1d3e816015295cab09988b03ff57047d573527"
@@ -69,7 +69,7 @@
         "mark-testing": "fb97f85857de702423b136489da65c8ecdf4eb78"
     },
     "python-modules-kit": {
-        "mark-testing": "77b101a9d353faf346b7e5fdae7eeb6b33dc172e"
+        "mark-testing": "177ebbde3f7b69af1ea98a540799a0a79eb9f9af"
     },
     "qt-kit": {
         "mark-testing": "24674e118bbe5cd370858ae9096bae32b5e343c3"
@@ -84,7 +84,7 @@
         "mark-testing": "21134a816b456382dd9914fd1a156879fbab984e"
     },
     "text-kit": {
-        "mark-testing": "b5aca8d8867401a2b7b55b33beaa371ccb48cbf9"
+        "mark-testing": "a8eb555a2eecdcb280e053af6d3d9090fe45302f"
     },
     "xfce-kit": {
         "mark-testing": "86363c5a331e3557a5e4263080f1be0bac51f19e"
